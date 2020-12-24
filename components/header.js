@@ -19,6 +19,6 @@ const styles = StyleSheet.create({
   textProperties: {
     alignSelf: "center",
     fontSize: 30,
-    marginTop: 35,
+    marginTop: 38,
   },
 });
