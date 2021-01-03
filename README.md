@@ -17,7 +17,7 @@ For More Detailed video watch :
 <a href ="https://www.youtube.com/watch?v=llveG3Qp0no&ab_channel=DroidpediaAcademy">Run an Expo app and generete .apk,.app files </a>
 
 #### For Database refer to: database.json file.
-Import this fine to the firebase realtime database.
+Import this file to the firebase realtime database.
 If you dont know how to import and export files, Refer to the Video <a href ="https://www.youtube.com/watch?v=YL9j4-kjPoA"> Real time Database Import/Export</a>
 
 ##### Output Screen :
