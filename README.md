@@ -1,7 +1,6 @@
 ## Steps to Develop App:
 
 - Step 1: Open the command prompt, and type expo init. (Make Sure that expo is installed).
-<br/>
 If not, watch my video on how to install Expo: 
 <a href ="https://www.youtube.com/watch?v=dvuZn6gX_Q4&ab_channel=DroidpediaAcademy">Expo Installation</a>
 
@@ -11,9 +10,7 @@ If not, watch my video on how to install Expo:
 ##### Checking Output:
 - Step 1: Load Code in VS Code
 - Step 2: open terminal in VS Code,type expo start or sudo expo start.
-- Step 3: Run in desired webbower, ios simulator, android emulator.
-
-<br/>
+- Step 3: Run in desired webbower, ios simulator, android emulator
 For More Detailed video watch :
 <a href ="https://www.youtube.com/watch?v=llveG3Qp0no&ab_channel=DroidpediaAcademy">Run an Expo app and generete .apk,.app files </a>
 
